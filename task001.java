@@ -10,6 +10,7 @@ public class task001 {
         int a = scr.nextInt();
         int x = lib.TriangularNumber(a);
         System.out.println(a + "-тое треугольное число равно:  " + x);
+        scr.close();
 
 
         
